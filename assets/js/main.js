@@ -6,7 +6,7 @@ var cognomeUtente = prompt('inserisci il tuo cognome');
 console.log(cognomeUtente);
 
 // dichiaro array listaCognomi
-var listaCognomi = ['rossi', 'bruno', 'pippo', 'caio', 'pinco', 'pallo',  ];
+var listaCognomi = ['rossi', 'bruno', 'pippo', 'caio', 'pinco', 'pallo' ];
 console.log(listaCognomi);
 
 // inserirlo in un array con altri cognomi: ‘Bianchi’, ‘Rossi’, ‘Duzioni’, ‘Balsano’, ‘Verdi’
